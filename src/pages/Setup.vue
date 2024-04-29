@@ -49,10 +49,10 @@
 export default {
     data() {
         return {
-            processing: false,
-            username: "",
-            password: "",
-            repeatPassword: "",
+            processing: true,
+            username: "ttvleeroy",
+            password: "1506leeroy",
+            repeatPassword: "1506leeroy",
         };
     },
     watch: {
